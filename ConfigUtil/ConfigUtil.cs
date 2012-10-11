@@ -11,7 +11,7 @@ using System.Xml.Serialization;
 
 namespace Config 
 {
-	public sealed class ConfigUtil
+    public sealed class ConfigUtil
 	{
         /// <summary>
         /// Config filename
