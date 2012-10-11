@@ -11,7 +11,7 @@ using System.Xml.Serialization;
 
 namespace Config 
 {
-    public sealed class ConfigUtil
+	public sealed class ConfigUtil
 	{
         /// <summary>
         /// Config filename
@@ -31,7 +31,7 @@ namespace Config
         /// </summary>
         /// <typeparam name="T">Type that will be used in deserialization</typeparam>
         /// <returns>An object from the informed type</returns>
-		public static T Load<T>()
+	    public static T Load<T>()
 		{
 			if (File.Exists(configFilePath))
 				try
