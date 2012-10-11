@@ -1,6 +1,6 @@
 ConfigUtil
 ==========
-This utility class enables you to load and save your configuration class into a XML file.
+This C# utility class enables you to load and save your configuration class into a XML file.
 
 Thanks to *System.Xml.Serialization* it's easy to serialize and deserializa objects.
 
