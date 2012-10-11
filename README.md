@@ -4,3 +4,4 @@ Utility class for configuration file
 
 How to use
 ----------
+Coming soon!
